@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ian+Thuo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Spidey!;" />
 </h1>
 
 <h3 align="center"> I'm a passionate learner with a burning curiosity for all things related to cybersecurity and software development. 🌐💻</h3>
@@ -30,10 +30,10 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:ccarlito7641@gmail.com">
+  <a href="mailto:solhtevi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ian-karanja-757320223" target="_blank">
+  <a href="https://www.whatsapp/wa.me/254785429940" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/optimus-glitch" target="_blank">
